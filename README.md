@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="370px" src="https://github.com/Prince-1501/Prince-1501/blob/master/jeevankumar.jpg" />
+<img align="right" alt="GIF"  width="370px" src="https://github.com/Prince-1501/Prince-1501/blob/master/jeevankumar.png" />
 
 ### HEY!! I M JEEVAN KUMAR 
    <a href="https://www.linkedin.com/in/jeevan-kumar-/">
