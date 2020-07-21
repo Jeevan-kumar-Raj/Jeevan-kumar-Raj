@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="370px" src="jeevankumar.png" />
+<img align="right"   width="370px" src="jeevankumar.png" />
 
 
 ### HEY!! I M JEEVAN KUMAR 
