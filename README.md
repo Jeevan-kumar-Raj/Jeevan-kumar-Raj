@@ -1,8 +1,8 @@
 <img align="right" alt="GIF"  width="370px" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
-### HEY!! I M AYUSHI 
-   <a href="https://www.linkedin.com/in/ayushi-doshi-731210191/">
-  <img align="left" alt="Ayushi's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### HEY!! I M JEEVAN KUMAR 
+   <a href="https://www.linkedin.com/in/jeevan-kumar-/">
+  <img align="left" alt="Jeevan's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
  <a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
@@ -11,7 +11,7 @@
 </br>
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
-- I ❤️ to work on Android as well !!
+- I ❤️ to work on Full Stack Web Development as well !!
 - Opensource Enthusiast
 - Trying hands on Data science
 - Looking for Opportunities
@@ -66,11 +66,11 @@
 
 ## Currently Working on
 - Competitive Programming Skills
-- Developing Android Projects
+- Developing Android & Web Dev. Projects
 
 ## My Organization
 - Do have a glimse on projects in which i have contributed
 - Click on the image below and fascinate yourself with our work!!
 <a href="https://github.com/The-Lazy-People">
-  <img align="left" alt="Ayushi's Organization width="1px" src="https://avatars3.githubusercontent.com/u/66350338?s=200&v=4" />
+  <img align="left" alt="Jeevan's Organization width="1px" src="https://avatars3.githubusercontent.com/u/66350338?s=200&v=4" />
 </a>
