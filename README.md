@@ -5,7 +5,7 @@
   <img align="left" alt="Jeevan's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
- <a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
+ <a href="https://@@@.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
   <img align="left" alt="Ayushi's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
@@ -60,7 +60,7 @@
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=legendarygirl56&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jeevan-kumar-Raj&show_icons=true&hide_border=true)
 
 ## Show ❤️ By Starring My Repos!
 
