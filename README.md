@@ -6,7 +6,7 @@
   <img align="left" alt="Jeevan's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
- <a href="https://@@@.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
+ <a href="https://www.youtube.com/channel/UCKPP--XjyuG7JY5i5zbD3Vw?view_as=subscriber">
   <img align="left" alt="Ayushi's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
