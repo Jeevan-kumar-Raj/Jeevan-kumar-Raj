@@ -7,7 +7,7 @@
 </a>
 
  <a href="https://www.youtube.com/channel/UCKPP--XjyuG7JY5i5zbD3Vw?view_as=subscriber">
-  <img align="left" alt="Ayushi's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
+  <img align="left" alt="Jeevan's Youtube" width="27px" height="20px" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" />
 </a>
 </br>
 
@@ -68,10 +68,10 @@
 ## Currently Working on
 - Competitive Programming Skills
 - Developing Android & Web Dev. Projects
-
+- Data Science & Machine Learning
 ## My Organization
 - Do have a glimse on projects in which i have contributed
 - Click on the image below and fascinate yourself with our work!!
-<a href="https://github.com/The-Lazy-People">
-  <img align="left" alt="Jeevan's Organization width="1px" src="https://avatars3.githubusercontent.com/u/66350338?s=200&v=4" />
+<a href="https://github.com/">
+  <img align="left" alt="Jeevan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
 </a>
