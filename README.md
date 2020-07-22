@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="370px" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
+<img align="right" alt="GIF"  width="370px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 
 
 ### HEY!! I M JEEVAN KUMAR 
